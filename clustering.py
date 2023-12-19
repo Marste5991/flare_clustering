@@ -1,4 +1,6 @@
 '''
+
+TESTESTTEST
 Functions and initation for clustering techniques of flare data.
 
 Author: Knut Ola Dølven, knut.o.dolven@uit.no (c) 2023
